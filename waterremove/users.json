@@ -1,0 +1,93 @@
+{
+  "admin": {
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "permissions": [
+      "view",
+      "edit",
+      "delete",
+      "admin"
+    ],
+    "is_active": true
+  },
+  "user": {
+    "password_hash": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  },
+  "testuser": {
+    "password_hash": "7e6e0c3079a08c5cc6036789b57e951f65f82383913ba1a49ae992544f1b4b6e",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  },
+  "weakuser": {
+    "password_hash": "481ba4019c9d2710c3386537382592c093ef02bf5b056c30237b3d92b0e19a1d",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  },
+  "functionuser": {
+    "password_hash": "b57902062773c968df2c860d216220ae77951c33bdc5c5b5a9383d86d1009df0",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  },
+  "weak1": {
+    "password_hash": "481ba4019c9d2710c3386537382592c093ef02bf5b056c30237b3d92b0e19a1d",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  },
+  "weak2": {
+    "password_hash": "bef57ec7f53a6d40beb640a780a639c83bc29ac8a9816f1fc6c5c6dcd93c4721",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  },
+  "weak3": {
+    "password_hash": "e9c0f8b575cbfcb42ab3b78ecc87efa3b011d9a5d10b09fa4e96f240bf6a82f5",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  },
+  "strong1": {
+    "password_hash": "c6c9e6fcbd6440d2cef7a8df59feab47fa1d96b09d1b119bbe8744a3972ccfc3",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  },
+  "123": {
+    "password_hash": "a8fe5114c70653c2e6029f67648d42743bf9a2bb88c614c781ffff21fe5220be",
+    "permissions": [
+      "view",
+      "edit",
+      "delete"
+    ],
+    "is_active": true
+  }
+}
