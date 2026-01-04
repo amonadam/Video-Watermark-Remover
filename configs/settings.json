@@ -1,0 +1,29 @@
+{
+    "sample_frames": 12,
+    "min_frames": 8,
+    "dilation_size": 8,
+    "use_gpu": true,
+    "ldm_steps": 20,
+    "margin": 5,
+    "hd_strategy": "ORIGINAL",
+    "preview_before_process": true,
+    "auto_select_roi": false,
+    "use_color_segmentation": false,
+    "min_component_area": 20,
+    "morph_open": 3,
+    "morph_close": 7,
+    "use_canny": true,
+    "canny_low": 100,
+    "canny_high": 200,
+    "codec": "libx264",
+    "bitrate": "5000k",
+    "preset": "medium",
+    "output_format": "mp4",
+    "last_input_dir": "",
+    "last_output_dir": "output",
+    "theme": "default",
+    "user_storage": {
+        "type": "sqlite",
+        "file_path": "users.db"
+    }
+}
